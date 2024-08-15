@@ -3,7 +3,7 @@
 This is my solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da).
 
 
-<img src="design/desktop-preview.jpg">
+<img src="images/desktop-preview.jpg">
 
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-using-flexbox-Uqx_uNP8X-)
